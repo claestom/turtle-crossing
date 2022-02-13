@@ -21,6 +21,4 @@ class Player(Turtle):
 
     def restart(self):
         self.goto(STARTING_POSITION)
-
-
-
+        
